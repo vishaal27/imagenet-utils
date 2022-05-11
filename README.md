@@ -7,3 +7,6 @@ The `utils.py` script contains methods to easily map between imagenet class labe
 
 ## Wikipedia Summaries
 The file `wikipedia_contexts_by_imagenet_class.pickle` contains a dictionary mapping imagenet class names to their corresponding summaries from wikipedia. The script `create_wikipedia_knowledge.py` can be used to generate this file.
+
+## Sample Visualisation
+[This repository](https://github.com/EliSchwartz/imagenet-sample-images) contains 1000 random samples (one-per-class) from Imagenet for easy exploration.
